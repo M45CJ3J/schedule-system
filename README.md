@@ -10,10 +10,11 @@ it`s a schedule system to book on it vacancies
 laravel used because it`s open source and it`s supported templet engine "blade" support canlender plugin and perfect and secure auth system
 
 ## How to install and run the project.
+<pre>
 1- git clone https://github.com/M45CJ3J/schedule-system.git 
 2- cd to path 
 3- composer update .
-
+</pre>
 - software requirements (tools, libraries..etc)
 php version 7.3
 xampp , wampp or laragon
